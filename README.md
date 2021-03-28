@@ -1,7 +1,5 @@
 ## DiamondHacks21
 
-## Lab 07
-
 * **Links and Resources Used **
     * **https://www.blackpast.org/african-american-history/national-black-feminist-organization-1973-1976/**
     * https://newsinfo.inquirer.net/1410711/6-year-old-boy-arrested-for-picking-flower-at-bus-stop
