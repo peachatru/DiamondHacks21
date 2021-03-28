@@ -360,24 +360,32 @@ public class DiamondHacks21 {
                 case 'p':
                     System.out.println("Here is an event from the past!");
                     System.out.println(getPastEvent() + "\n");
+                    System.out.println();
+                    System.out.println();
                     System.out.println("---------------------------------------------------------------------------------------------------------------");
                     break;
 
                 case 'c':
                     System.out.println("Here is a current event!");
                     System.out.println(getCurrentEvent() + "\n");
+                    System.out.println();
+                    System.out.println();
                     System.out.println("---------------------------------------------------------------------------------------------------------------");
                     break;
 
                 case 'l':
                     System.out.println("Here is a url to a resource with more information!");
                     System.out.println(getMoreResources() + "\n");
+                    System.out.println();
+                    System.out.println();
                     System.out.println("---------------------------------------------------------------------------------------------------------------");
                     break;
 
                 case 'i':
                     System.out.println("Here are some resources to help you get involved!");
                     System.out.println(getInvolved() + "\n");
+                    System.out.println();
+                    System.out.println();
                     System.out.println("---------------------------------------------------------------------------------------------------------------");
                     break;
 
@@ -387,6 +395,8 @@ public class DiamondHacks21 {
 
                 default:
                     System.out.println("Please enter a valid input!\n");
+                    System.out.println();
+                    System.out.println();
                     System.out.println("---------------------------------------------------------------------------------------------------------------");
                     break;
             	}
