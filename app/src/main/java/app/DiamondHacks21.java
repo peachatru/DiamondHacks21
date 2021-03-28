@@ -82,7 +82,7 @@ public class DiamondHacks21 {
         "such as in America, but they also inspired multiple new movements in Asia and other non-western countries.";
 
         String fact8 = "The EDSA Revolution of 1986 were a series of pacifist protests led by Filipino citizens in an effort to fight\n" +
-        "against voter fraud and the current regime's dictatorship. This revolution led to the end of ";
+        "against voter fraud and the current regime's dictatorship. This revolution led to the end of the Ferdinand";
 
         String fact9 = "In 2011, Josefina Vázquez Mota won the nomination for presidency and became the\n" +
         "first female canidate from a major political party in Mexico's history. Not only was she the first female\n" +
