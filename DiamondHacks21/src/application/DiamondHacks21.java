@@ -40,14 +40,15 @@ public class DiamondHacks21 {
     * https://www.hrw.org/news/2020/06/29/philippines-police-crack-down-lgbt-protest
     * https://en.wikipedia.org/wiki/Indian_Rebellion_of_1857
     * https://en.wikipedia.org/wiki/People_Power_Revolution
+    * https://en.wikipedia.org/wiki/Hawaiian_sovereignty_movement
     */
 
     public static String getPastEvent() {
         ArrayList<String> pastEvents = new ArrayList<String>();
         String fact1 = "Founded in May 1973, the National Black Feminist Organization (NBFO) addressed\n" +
-        "both the sexism and racism faced by black women. By 1974, there were 2,000 members and 10 chapters\n" +
-        "acrooss the United States, a tremondous increase from the original 30 members. While the organization ended in 1980,\n" +
-        "it fought hard for changes and also influenced the creation of other organizations.";
+                "both the sexism and racism faced by black women. By 1974, there were 2,000 members and 10 chapters\n" +
+                "acrooss the United States, a tremondous increase from the original 30 members. While the organization ended in 1980,\n" +
+                "it fought hard for changes and also influenced the creation of other organizations.";
 
         String fact2 = "The Alpha Chapter of Sigma Gamma Rho was founded on November 12, 1922 by seven African America women educators who \n" +
          "believed in fighting injustice and establishing an organization dedicated to supporting fellow black women." +
@@ -79,7 +80,10 @@ public class DiamondHacks21 {
         "movement unique in different countries across Asia. These movements were inspired by previous women's movements\n" +
         "such as in America, but they also inspired multiple new movements in Asia and other non-western countries.";
 
-        String fact8 = "";
+        String fact8 = "On May 6, 1882, the Chinese Exclsion Act was passed in the U.S banning all Chinese laborer immigrants for the next 10 years. \n" +
+        "Since the California Gold Rush of 1848, more Chinese immigrants started to come to the U.S for a better life. This led to harsh competition and \n" +
+        "animosity toward the Chinese and eventual hate crimes arose. The increased hatred and racism against the Chinese population culminated into the act in \n" +
+        " an effort  to \"ease tensions\". The act would eventually be repealed decades later, but the bigotry and racism from that act still persists today. ";
 
         String fact9 = "In 2011, Josefina Vázquez Mota won the nomination for presidency and became the\n" +
         "first female canidate from a major political party in Mexico's history. Not only was she the first female\n" +
@@ -87,14 +91,16 @@ public class DiamondHacks21 {
         "While she ended up not winning the presidancy, this was a turning point in Mexico's political history, and in the coming years,\n" +
         "women will have more opportunites to hold major political positions.";
 
-        String fact10 = "The Mexican Revolution in 1910 led by revolutionaries Francisco Madero, Pancho Villa, and Emiliano Zapata was a long and arduous rebellion \n" + 
-        "against the oppresive established government ruled by Porfirio Diaz. The mounting public disapproval of his policies resulted in ";
+        String fact10 = "The Mexican Revolution in 1910 led by revolutionaries Francisco Madero, Pancho Villa, and Emiliano Zapata was a long and arduous rebellion \n" +
+        "against the oppresive established government ruled by Porfirio Diaz. The mounting public disapproval of his policies resulted in the uprising of multiple factions \n " +
+        "across Mexico. The resilience of the Mexican people created the turning point in the revolt, causing the resignation of Diaz and the insitution of a constitutional republic in Mexico.";
 
         String fact11 = "In early 1891, Lilioukalani ascended to the thrown becoming the first woman, and only, to ever to rule Hawaii.\n" +
         "As queen, Lilioukalani implemented a new constitution that restored the powers lost to the monarchy through the\n" +
-        "Bayonet consitution.";
+        "Bayonet consitution,";
 
-        String fact12 = "";
+        String fact12 = "The Apology Resolution act passed by the U.S formally acknowledged the injustice they did by overthrowing\n" +
+        "the Hawaii Kingdom in 1893, deeming it an illegal act";
 
         String fact13 = "On July 4th, 1946, full independence was granted to the republic of Philippines by the United States,\n" +
         "and the Philippines became recognized as an independent nation. There is another independence day celebrated on\n" +
@@ -103,7 +109,7 @@ public class DiamondHacks21 {
         String fact14 = "The EDSA Revolution of 1986 were a series of pacifist protests led by Filipino citizens in an effort to fight\n" +
         "against voter fraud and the current regime's dictatorship. This revolution led to the end of Ferdinand Marcos's 20 year presidential reign," +
         " creating a new era of liberty and democracy in the Philippines.";
-
+        
         pastEvents.add(fact1); // Black
         pastEvents.add(fact2); // Black
         pastEvents.add(fact3); // Indigenous
@@ -386,6 +392,5 @@ public class DiamondHacks21 {
             	}
             }
         scnr.close();
-
     }
 }
