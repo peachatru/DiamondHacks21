@@ -1,10 +1,10 @@
 ## DiamondHacks21
-* **#Authors **
+* **Authors **
    * Nyela Allen
    * Olivia Carson
    * Michael Smith
    * Tiffany Truong  
-* **#Links and Resources Used **
+* **Links and Resources Used **
     * **https://www.blackpast.org/african-american-history/national-black-feminist-organization-1973-1976/**
     * https://newsinfo.inquirer.net/1410711/6-year-old-boy-arrested-for-picking-flower-at-bus-stop
     * https://www.theguardian.com/us-news/2021/mar/23/deb-haaland-swearing-in-skirt-dress-agnes-woodward
